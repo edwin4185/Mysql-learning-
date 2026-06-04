@@ -1,0 +1,2 @@
+# Mysql-learning-
+practicing sql 
